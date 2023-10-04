@@ -25,6 +25,9 @@ Before you begin, make sure you have the following prerequisites in place:
 - Image Dataset: Prepare a dataset of images with corresponding labels for training the image recognition model.
 - Development Environment: Set up your development environment with the required tools and libraries.
 
+###drive link
+https://docs.google.com/document/d/1FGMRRCDN08YadNJv2OAeDDVSi4WWp-Qq/edit?usp=sharing&ouid=100374372476894423685&rtpof=true&sd=true
+
 ### Installation
 
 1. Clone the repository:
