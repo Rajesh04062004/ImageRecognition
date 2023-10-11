@@ -26,7 +26,7 @@ Before you begin, make sure you have the following prerequisites in place:
 - Development Environment: Set up your development environment with the required tools and libraries.
 
 ###drive link
-https://docs.google.com/document/d/1FGMRRCDN08YadNJv2OAeDDVSi4WWp-Qq/edit?usp=sharing&ouid=100374372476894423685&rtpof=true&sd=true
+https://drive.google.com/drive/folders/1HFBv0noWPotR58DHzxrak7Vmy_-HYd5m?usp=sharing
 
 ### Installation
 
